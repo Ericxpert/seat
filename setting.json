@@ -1,4 +1,13 @@
 {
-    student_list:[]
-    
+    "student_list":[
+        {
+        "number":1,
+        "name":"Eric",
+},
+{"number":"10",
+"name":"Kevin",
+
+}
+    ]
+
 }
